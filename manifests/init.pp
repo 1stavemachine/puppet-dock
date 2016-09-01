@@ -1,4 +1,4 @@
-class dock
+class dock()
 
 {
     mac_profiles_handler::manage { 'dockmaster.utility_imac':
